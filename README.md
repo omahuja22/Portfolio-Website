@@ -18,3 +18,4 @@ This is a personal portfolio website for Om Ahuja, an aspiring Data Scientist an
 ## Deployment
 
 This website is ready to be deployed on Vercel. Follow the deployment instructions in the main documentation.
+
