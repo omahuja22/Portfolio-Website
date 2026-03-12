@@ -4,10 +4,10 @@ This is a personal portfolio website for Om Ahuja, an aspiring Data Scientist an
 
 ## Features
 
-- Responsive design that works on all devices
-- Clean, modern UI with smooth scrolling
-- Sections for About, Projects, Experience, and Contact
-- Built with HTML and Tailwind CSS
+- Responsive design that works on all devices.
+- Clean, modern UI with smooth scrolling.
+- Sections for About, Projects, Experience, and Contact.
+- Built with HTML and Tailwind CSS.
 
 ## Getting Started
 
