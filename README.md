@@ -1,13 +1,12 @@
 # Om Ahuja - Personal Portfolio
 
-This is a personal portfolio website for Om Ahuja, an aspiring Data Scientist and AI & ML enthusiast.
-
+This is a personal portfolio website for Om Ahuja, an aspiring Data Scientist and AI & ML enthusiast
 ## Features
 
-- Responsive design that works on all devices.
-- Clean, modern UI with smooth scrolling.
-- Sections for About, Projects, Experience, and Contact.
-- Built with HTML and Tailwind CSS.
+- Responsive design that works on all devices
+- Clean, modern UI with smooth scrolling
+- Sections for About, Projects, Experience, and Contact
+- Built with HTML and Tailwind CSS
 
 ## Getting Started
 
