@@ -12,7 +12,7 @@ This is a personal portfolio website for Om Ahuja, an aspiring Data Scientist an
 
 1. Clone this repository.
 2. Open `index.html` in your browser to view the website.
-3. Customize the content to match your information
+3. Customize the content to match your information.
 
 ## Deployment
 
